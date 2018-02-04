@@ -1,0 +1,2 @@
+# Avereger
+Avereges input numbers
